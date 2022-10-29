@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "sp-pl"
+name = "sap-pl"
 version = "0.1.0"
